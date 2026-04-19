@@ -1,1 +1,2 @@
-# tianluo-homecare-platform
+# 田螺家政 - 智慧家政服务平台
+## 用户体验设计课程项目 | FastAPI + Vue3 全栈开发
